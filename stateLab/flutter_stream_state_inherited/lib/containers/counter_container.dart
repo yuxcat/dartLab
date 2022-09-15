@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_stream_state/models/models.dart';
-import 'package:flutter_stream_state/services/notify.dart';
+import 'package:flutter_stream_state_inherited/models/models.dart';
+import 'package:flutter_stream_state_inherited/services/notify.dart';
 
 class CounterContainer extends StatefulWidget {
   const CounterContainer({super.key, required this.callBack});
